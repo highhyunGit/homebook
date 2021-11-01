@@ -1,4 +1,4 @@
-# homebook(Python+wxFormBuilder)
+# HOMEBOOK(가계부)
 <h2>Skills</h2>
 · 개발도구 : Eclipse <br/>
 · 사용언어 : Python / SQLite3 / wxFormBuilder
